@@ -1,0 +1,52 @@
+[
+  {
+    "id": "fd1",
+    "bankName": "HDFC Bank",
+    "principalAmount": 100000.00,
+    "interestRate": 5.5,
+    "startDate": "2023-01-01",
+    "maturityDate": "2024-01-01",
+    "tenureInMonths": 12,
+    "maturityAmount": 105500.00
+  },
+  {
+    "id": "fd2",
+    "bankName": "ICICI Bank",
+    "principalAmount": 150000.00,
+    "interestRate": 5.7,
+    "startDate": "2023-02-15",
+    "maturityDate": "2024-02-15",
+    "tenureInMonths": 12,
+    "maturityAmount": 158550.00
+  },
+  {
+    "id": "fd3",
+    "bankName": "SBI",
+    "principalAmount": 200000.00,
+    "interestRate": 5.6,
+    "startDate": "2023-03-20",
+    "maturityDate": "2024-03-20",
+    "tenureInMonths": 12,
+    "maturityAmount": 211200.00
+  },
+  {
+    "id": "fd4",
+    "bankName": "Axis Bank",
+    "principalAmount": 50000.00,
+    "interestRate": 5.8,
+    "startDate": "2023-04-10",
+    "maturityDate": "2023-10-10",
+    "tenureInMonths": 6,
+    "maturityAmount": 51450.00
+  },
+  {
+    "id": "fd5",
+    "bankName": "Kotak Mahindra Bank",
+    "principalAmount": 75000.00,
+    "interestRate": 5.9,
+    "startDate": "2023-05-05",
+    "maturityDate": "2024-05-05",
+    "tenureInMonths": 12,
+    "maturityAmount": 79425.00
+  }
+]
